@@ -21,7 +21,7 @@ To run this project on your local machine or in Google Colab, follow these steps
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/StockPricePrediction.git
+    git clone https://github.com/krimerwool/Stock-Price-Prediction-System.git
     ```
 
 2. Install the necessary Python libraries:
